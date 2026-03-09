@@ -27,6 +27,6 @@ Para no comprometer datos reales de usuarios ni exponer credenciales de APIs en 
 
 1. **Clona el repositorio e inicializa el entorno con `uv`:**
    ```bash
-   git clone [https://github.com/TU-USUARIO/Behavioral-Data-Pipeline.git](https://github.com/TU-USUARIO/Behavioral-Data-Pipeline.git)
+   git clone [https://github.com/Dani-Collado/Behavioral-Data-Pipeline.git](https://github.com/Dani-Collado/Behavioral-Data-Pipeline.git)
    cd Behavioral-Data-Pipeline
    uv sync
